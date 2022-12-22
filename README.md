@@ -1,3 +1,3 @@
 # Projects
 
-<p>NFT project: <a href='www.facebook.com'>www.facebook.com</a> </p>
+<p>NFT project: <a href='https://www.facebook.com'>www.facebook.com</a> </p>
